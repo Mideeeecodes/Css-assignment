@@ -1,0 +1,58 @@
+.body{
+   padding-top: 15px
+}
+
+.class{
+   width: 1000px; height: 700px; background-color: black; margin: auto; padding: 50px;
+}
+
+.container{
+   background-color: white; width: 500px; height: 310px; margin: auto; position: relative; border-radius: 10px;
+}
+
+.style{
+   background-color: oklch(0.656 0.241 354.308); width: 400px; height: 80px; margin: -20px 50px 0px; position: absolute; border-radius: 7px;
+}
+
+.essay{
+   text-align: center; margin: 30px 0px;
+}
+
+p{
+   font-size: 28px; margin: 0px 50px; padding-top: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
