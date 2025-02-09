@@ -1,3 +1,7 @@
+
+@media (min-width:768px) and (max-width: 1440px){
+
+
 body {
     background-color: black;
 }
@@ -67,6 +71,7 @@ body {
   text-wrap: wrap;
   line-height: 1.5;
   color: black;
+}
 }
 
 
